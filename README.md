@@ -1,27 +1,31 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=header"/>
 
-# 👋 Hi, I'm Kunj Patel
+<h1 align="center">Hi 👋, I'm Kunj Patel</h1>
 
-🚀 Software Engineer @ Sentics (Germany)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Sentics;C%2B%2B+%7C+Kafka+%7C+CI%2FCD;Distributed+Systems+Engineer;Performance+Optimization" />
+</p>
+
+<p align="center">
+🚀 Software Engineer @ Sentics (Germany)  
 💻 C++ | Distributed Systems | Kafka | CI/CD
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-</div>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kunj-patel-65182b245">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:kunjrp157@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-kunj157s-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="40"/>
   </a>
 </p>
 
@@ -40,7 +44,7 @@
 
 * 🚗 Reduced braking latency by **30ms** in real-time system
 * ⚙️ Built modular **CI/CD pipelines** with reusable workflows
-* 📊 Processed **165,000+ entries** in AI system with sub-0.5s latency
+* 📊 Processed **165,000+ entries** with sub-0.5s latency
 * 🎯 Achieved **95% recommendation accuracy**
 
 ---
@@ -64,7 +68,7 @@
 
 ### 🎮 Expert System
 
-* Rule-based AI with high accuracy
+* Rule-based AI system
 * Fault-tolerant data pipeline
 
 ---
@@ -80,18 +84,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunj157&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunj157&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunj157&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunj157&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🔥 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunj157&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunj157&theme=tokyo-night"/>
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy optimizing systems until even milliseconds matter ⚡
+I optimize systems until even milliseconds matter ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
