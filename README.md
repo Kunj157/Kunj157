@@ -42,7 +42,7 @@
 
 ## 🚀 Professional Impact
 
-* 🚗 Reduced braking latency by **30ms** in real-time system
+* 🚗 Reduced forklift braking latency by **30ms** in real-time system
 * ⚙️ Built modular **CI/CD pipelines** with reusable workflows
 * 📊 Processed **165,000+ entries** with sub-0.5s latency
 * 🎯 Achieved **95% recommendation accuracy**
