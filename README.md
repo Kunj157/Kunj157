@@ -8,7 +8,7 @@
 
 <p align="center">
 🚀 Software Engineer @ Sentics (Germany)  
-💻 C++ | Distributed Systems | Kafka | CI/CD
+💻 C++ | Kafka | CI/CD
 </p>
 
 ---
