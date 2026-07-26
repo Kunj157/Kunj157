@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kunj Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Sentics;C%2B%2B+%7C+Kafka+%7C+CI%2FCD;Distributed+Systems+Engineer;Performance+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Sentics;Performance+Optimization" />
 </p>
 
 <p align="center">
