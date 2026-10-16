@@ -2,7 +2,7 @@
 
 Werkstudent Softwareentwicklung at Sentics, Germany. I work on real-time C++ systems, messaging infrastructure, and CI/CD.
 
-[LinkedIn](https://linkedin.com/in/kunj-patel-65182b245) · [Email](mailto:kunjrp157@gmail.com) · [Portfolio](https://portfolio-kunj157s-projects.vercel.app/)
+[LinkedIn](https://linkedin.com/in/kunj-patel-65182b245) · [Email](mailto:kunjr157@gmail.com) · [Portfolio](https://portfolio-kunj157s-projects.vercel.app/)
 
 ## About
 
